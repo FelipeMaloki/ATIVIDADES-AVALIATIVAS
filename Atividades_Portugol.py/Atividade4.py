@@ -1,0 +1,1 @@
+print ("Sejam Bem- Vindos ao livro sobre algoritimos da casa do codigo.")

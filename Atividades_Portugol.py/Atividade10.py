@@ -1,0 +1,11 @@
+nome = input("Digite o seu nome: ")
+idade = int(input("Digite a sua idade: "))
+altura = float(input("Digite a sua altura: "))
+
+print("\n=========================================")
+print("            FICHA DO ALUNO(A)            ")
+print("=========================================")
+print(f"Nome completo: {nome}")
+print(f"Idade: {idade} anos")
+print(f"Altura: {altura}m")
+print("=========================================")
